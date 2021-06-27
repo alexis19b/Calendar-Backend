@@ -1,8 +1,0 @@
-{
-    "editor.fontSize": 15,
-    "editor.fontFamily": "Consolas, 'Courier New', monospace",
-    "editor.tabSize": 2,
-    "workbench.preferredLightColorTheme": "Monokai Night",
-    "editor.fontLigatures": true,
-    "terminal.integrated.fontFamily": "MesloLGSDZ NF",
-    "terminal.integrated.fontWeight": null
